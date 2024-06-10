@@ -1,7 +1,7 @@
 from list import LinkedList
 
 def main():
-  list = LinkedList();
+  list = LinkedList()
 
   list.push_front(1)
   list.push_front(2)
